@@ -1,0 +1,2 @@
+class OutboundTimesToYellow < ApplicationRecord
+end

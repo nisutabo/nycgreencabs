@@ -1,0 +1,2 @@
+class YellowTime < ApplicationRecord
+end

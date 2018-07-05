@@ -1,0 +1,2 @@
+module OutboundRidesHelper
+end

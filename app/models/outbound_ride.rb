@@ -1,0 +1,2 @@
+class OutboundRide < ApplicationRecord
+end

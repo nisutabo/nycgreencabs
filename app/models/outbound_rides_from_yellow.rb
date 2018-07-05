@@ -1,0 +1,2 @@
+class OutboundRidesFromYellow < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RidesFromYellow < ApplicationRecord
+end

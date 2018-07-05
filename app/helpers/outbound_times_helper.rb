@@ -1,0 +1,2 @@
+module OutboundTimesHelper
+end

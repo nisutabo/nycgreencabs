@@ -1,0 +1,2 @@
+module RidesFromYellowsHelper
+end

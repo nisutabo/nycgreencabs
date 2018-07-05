@@ -1,0 +1,2 @@
+module OutboundTimesToYellowsHelper
+end

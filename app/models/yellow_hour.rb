@@ -1,0 +1,2 @@
+class YellowHour < ApplicationRecord
+end
